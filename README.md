@@ -6,4 +6,4 @@
 
 ### Usage
  - Modify the URL and Authentication, Token first in jsonGetter
- - Import jsonSchemaGenerator, and use function exporting, it will return the JSON Schema
+ - Import jsonSchemaGenerator, and use function `export`, it will return the JSON Schema
